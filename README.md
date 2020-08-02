@@ -16,8 +16,24 @@ sudo pacman -S code
 
 ---
 
+## Running
+
+```
+node <file>
+
+OR
+
+./<file>
 ```
 
-something
+---
+
+```
+
+ES6 - EcmaScript 6
+---
+
+ES5       ES6
+var       let, const
 
 ```
