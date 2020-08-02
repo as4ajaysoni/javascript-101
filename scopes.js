@@ -2,7 +2,7 @@ function scopeVarDemo() {
     var name = "AS";
 
     if(true) {
-        name = "AS1"
+        name = "AS1";
     }
     
 
@@ -13,7 +13,7 @@ function scopeLetDemo() {
     let name = "AS";
 
     if(true) {
-        let name = "AS1"
+        let name = "AS2";
     }
 
     console.log(name);
