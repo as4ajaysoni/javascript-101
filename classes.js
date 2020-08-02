@@ -34,6 +34,7 @@ function main() {
 
 var printMe = function() {
     console.log("ME");
+    console.log("test");
 }
 
 main();
